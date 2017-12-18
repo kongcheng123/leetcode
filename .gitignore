@@ -2,7 +2,4 @@
 .gitignore
 src/main/resources/
 src/test/
-target/generated-sources/
-target/classes/lengthOfLastWord.class
-target/classes/tree/
-target/generated-test-sources/
+target/
